@@ -1,0 +1,243 @@
+.header{
+margin-top: 44px;
+/* margin-bottom: 45px; */
+}
+.container{
+    width: 1280px;
+    margin-left: 20px;
+    margin-left: 20px;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.hed__img{
+    margin: 44px;
+}
+.nav__ul{
+display: flex;
+}
+.nav__li{
+    list-style: none;
+    margin: 33px;
+}
+.nav__a{
+    
+    text-decoration: none;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+/* section */
+.section .container{
+    background-image: url(../img/stakan-cofe.png);
+    width: 1280px;
+    height: 450px;
+    margin-left: 80px;
+    margin: auto;
+    margin-bottom: 168px;
+}
+.sec__h1{
+   
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #FEFCF7;
+}
+.sect__p{
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+width: 400px;
+}
+.pas{
+    /* padding-top: 50px; */
+    margin-left: 45px;
+}
+
+
+/* 2-section */
+/* .container{
+    width: 1280px;
+    height: 450px;
+    margin-left: 80px;
+    margin: auto;
+}
+
+.malumot{
+    margin-left: 125px;
+}*/
+.secr{
+    margin-bottom: 158px;
+}
+.mana{
+    display: flex;
+}
+.malumot{
+    padding-top: 100px;
+    padding-left: 125px;
+}
+.images{
+    border-radius: 5%;
+    border-radius: 20px;
+}
+.secr__h2{
+    
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #333D4B;
+}
+.secr__p{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.sectd .container{
+    background-color: #2C343E;
+    width: 1280px;
+    height: 562px;
+}
+.flex1{
+    display: flex;
+}
+.mal{
+    padding-top: 90px;
+    padding-left: 85px;
+}
+.mal__h3{
+    
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #FEFCF7;
+}
+.mal__p{
+    width: 400px;
+    
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+.resm{
+    margin-left: 252px;
+    margin-top: -80px;
+    
+}
+.rsm{
+    border-radius: 20px;
+}
+li,a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.our__h5{
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+}
+.our__h6{   
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 36px;
+color: #333D4B;
+}
+.our__spn{
+    display: block;
+    padding: 0px 0;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+.our__ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__img{
+    transform: translate(57px,61px);
+    color: #ffff;
+}
+.hero .container{
+    /* display: flex; */
+    justify-content: space-between;
+    background-color: #2C343E;
+    width: 1280px;
+    height: 140px;
+}
+.navkar{
+    display: flex;
+}
+.hero__ul{
+    display: flex;
+    padding-left: 200px;
+    margin-left: 300px;
+}
+.ona{
+    display: flex;
+    margin-right: 100px;
+}
+.aaa__aa{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.hero__li{
+    margin-top: -50px;
+    margin: 20px;
+    display: flex;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.iconca{
+    display: flex;
+    transform: translate(897px,-80px);
+} 
+.nav__hero{
+    margin-left: 120px;
+}
